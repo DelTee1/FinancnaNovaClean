@@ -9,3 +9,5 @@ android/local.properties
 android/.gradle/
 ios/Pods/
 *.lock
+# Ignoruj v1 Android embedding súbory
+android/app/src/main/java/io/flutter/plugins/
